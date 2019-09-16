@@ -4,6 +4,7 @@
 def key_for_min_value(name_hash)
   low_key = 0 
   new_hash_key = {}
-  name_hash.each 
+  name_hash.each do | key, value |
+    
 
 end
